@@ -1,0 +1,4 @@
+KNN results for the sklearn library oscillate around 0.85. My kNN achieved a score of 0.72. I think this is due to:
+1. A way to calculate your nearest neighbors other than Hamming distance.
+2. More parameters, such as different weights for neighbors
+3. Generally better, more sophisticated and tested code in the library library.
